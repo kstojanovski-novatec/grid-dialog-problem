@@ -11,3 +11,4 @@ This project shows potentially an bug into in MUI framework when using data grid
 # Issue
 
 This issue was reported under: https://github.com/mui/mui-x/issues/8123
+Solution: https://github.com/mui/mui-x/issues/4243#issuecomment-1074494234
